@@ -125,58 +125,11 @@
             <version>3.3.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.googlecode.json-simple</groupId>
-            <artifactId>json-simple</artifactId>
-            <version>1.1.1</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
-        <dependency>
-            <groupId>io.appium</groupId>
-            <artifactId>java-client</artifactId>
-            <version>7.2.0</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>28.1-jre</version>
-        </dependency>
-
         <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-testng</artifactId>
             <version>${allure.version}</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-gmail -->
-        <dependency>
-            <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-gmail</artifactId>
-            <version>v1-rev105-1.25.0</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-sheets -->
-        <dependency>
-            <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-sheets</artifactId>
-            <version>v4-rev581-1.25.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.google.oauth-client</groupId>
-            <artifactId>google-oauth-client-jetty</artifactId>
-            <version>1.30.1</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
-        <dependency>
-            <groupId>org.jsoup</groupId>
-            <artifactId>jsoup</artifactId>
-            <version>1.12.1</version>
         </dependency>
 
         <dependency>
@@ -185,10 +138,5 @@
             <version>2.0.17</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.sun.mail</groupId>
-            <artifactId>javax.mail</artifactId>
-            <version>1.6.2</version>
-        </dependency>
     </dependencies>
 </project>
